@@ -43,13 +43,13 @@ global.link = 'https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P'
 global.prefa = ['','.']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.anti92 = false //auto block +254
+global.autoswview = true //auto view status/story
 
 //text bug
 global.xbugtex = {
@@ -63,7 +63,7 @@ global.mess = {
     prem: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑼𝒔𝒆𝒓𝒔',
     admin: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑨𝒅𝒎𝒊𝒏𝒔 𝑶𝒏𝒍𝒚',
     botAdmin: '𝒁𝒆𝒏𝒐𝒏 𝑴𝒖𝒔𝒕 𝑩𝒆 𝑨𝒅𝒎𝒊𝒏 𝑭𝒊𝒓𝒔𝒕',
-    owner: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑶𝒘𝒏𝒆𝒓 𝑶𝒏𝒍𝒚',
+    owner: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑶𝒘𝒏𝒆r',
     group: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑 𝑪𝒉𝒂𝒕 𝑶𝒏𝒍𝒚',
     private: '𝑻𝒉𝒊𝒔 𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒊𝒔 𝑭𝒐𝒓 𝑷𝒓𝒊𝒗𝒂𝒕𝒆 𝑪𝒉𝒂𝒕 𝑶𝒏𝒍𝒚',
     wait: '𝑳𝒐𝒂𝒅𝒊𝒏𝒈...',    
