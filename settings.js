@@ -23,7 +23,7 @@ ANDROID CAN USE ANY VERSION
 V1 === NO BUTTON
 V2 === BUTTON MODE */
 
-global.typemenu = 'v1' 
+global.typemenu = 'v4' 
 
 
 
