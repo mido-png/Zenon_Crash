@@ -1,7 +1,7 @@
 {
     "name": "Zenon-Crash",
     "version": "3.0.0",
-    "description": "WhatsApp War Bot Using Nodejs",
+    "description": "WhatsApp War Bot Using databasejs",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
